@@ -35,28 +35,29 @@ I'm an AI engineer focused on real-world GenAI applications — especially agent
 - 📚 Keep combining deep knowledge in **software, hardware, and cybersecurity** to design smarter, more autonomous systems  
 
 ---
-
 ## 📚 Research & Essays
 
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-
-  <a href="https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492" target="_blank" style="text-align: center; max-width: 260px;">
-    <img src="images/AiSystem.webp" width="260" alt="How AI Learns" style="border-radius: 8px;" />
-    <p><strong>🧠 How AI Actually Learns</strong><br>Breaking down how neural nets make sense of 0s and 1s.</p>
-  </a>
-
-  <a href="https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4" target="_blank" style="text-align: center; max-width: 260px;">
-    <img src="images/compiler.webp" width="260" alt="Understanding Compilers" style="border-radius: 8px;" />
-    <p><strong>🏗️ Understanding Compilers</strong><br>How your code turns into raw machine logic.</p>
-  </a>
-
-  <a href="https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3" target="_blank" style="text-align: center; max-width: 260px;">
-    <img src="images/Companies.webp" width="260" alt="AI Adoption in Jordan" style="border-radius: 8px;" />
-    <p><strong>🇯🇴 AI Adoption in Jordan</strong><br>Why companies hesitate — and what we can do about it.</p>
-  </a>
-
-</div>
-
+<table>
+  <tr>
+    <td style="padding: 0 10px;">
+      <a href="https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492" target="_blank">
+        <img src="images/AiSystem.webp" width="200" alt="How AI Learns" style="border-radius: 6px; cursor: pointer;">
+      </a>
+    </td>
+    <td style="border-left: 1px solid #ddd; width: 1px;"></td>
+    <td style="padding: 0 10px;">
+      <a href="https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4" target="_blank">
+        <img src="images/compiler.webp" width="200" alt="Understanding Compilers" style="border-radius: 6px; cursor: pointer;">
+      </a>
+    </td>
+    <td style="border-left: 1px solid #ddd; width: 1px;"></td>
+    <td style="padding: 0 10px;">
+      <a href="https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3" target="_blank">
+        <img src="images/Companies.webp" width="200" alt="AI Adoption in Jordan" style="border-radius: 6px; cursor: pointer;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
