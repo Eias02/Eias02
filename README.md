@@ -3,7 +3,7 @@
 **AI Engineer** | Future **AI Consultant** | Founder @ *Klysus* (Not yet but am working on :>)
 
 I'm an AI engineer focused on real-world GenAI applications — especially agentic systems. Currently building deep expertise in LLMs, prompt engineering, and full-stack AI workflows. Long-term vision: launch **Klysus**, my own AI solutions company.
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eias02)](https://github.com/anuraghazra/github-readme-stats)
 <hr/>
 
 <h3>🧠 Current Focus</h3>
