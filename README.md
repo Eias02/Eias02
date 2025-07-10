@@ -36,38 +36,28 @@ I'm an AI engineer focused on real-world GenAI applications — especially agent
 
 ---
 
-## 📝 Writing & Research
+## 📚 Research & Essays
 
-I occasionally write tech essays to unpack complex systems in a way that’s actually readable. Here's a few I've published on Medium:
+I occasionally write long-form pieces breaking down tech systems in clean, real-world language. Topics range from compilers to AI fundamentals to regional adoption challenges.
 
----
+- 🧠 **How AI Actually Learns** — Explains how zeros and ones evolve into neural networks  
+  👉 [Read on Medium](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
 
-### 🧠 How AI Actually Learns  
-**"It’s all just zeros and ones... so how does AI actually learn?"**  
-Explains how basic math and logic gates build up to modern neural networks.  
-👉 [Read it on Medium](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
+- 🏗️ **The Hidden Architect: Understanding Compilers** — How code turns into machine instructions  
+  👉 [Read on Medium](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
 
----
-
-### 🏗️ The Hidden Architect: Understanding Compilers  
-**"The invisible bridge between your code and machine execution."**  
-Breaks down how compilers translate high-level code into machine instructions.  
-👉 [Read it on Medium](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
+- 🇯🇴 **Why Jordanian Companies Are Slow to Adopt AI** — Barriers and solutions for local tech adoption  
+  👉 [Read on Medium](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
 
 ---
 
-### 🇯🇴 Why Jordanian Companies Are Slow to Adopt AI  
-**"Tech isn't the problem — mindset is."**  
-A deep dive into the cultural, organizational, and financial barriers blocking AI adoption in Jordan.  
-👉 [Read it on Medium](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
+## 📬 Contact
 
----
+Want to connect, collab, or nerd out about agentic AI? Hit me up:
 
-## 📬 Connect
-
-- GitHub: [@Eias02](https://github.com/Eias02)  
-- Email: alaa_salamah02@yahoo.com  
-- LinkedIn: [Alaa Salamah](https://www.linkedin.com/in/alaa-salamah-96167b227/)  
+- 🐙 GitHub: [@Eias02](https://github.com/Eias02)  
+- 📧 Email: **alaa_salamah02@yahoo.com**  
+- 💼 LinkedIn: [Alaa Salamah](https://www.linkedin.com/in/alaa-salamah-96167b227/)  
 
 ---
 
