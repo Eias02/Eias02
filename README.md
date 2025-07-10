@@ -34,6 +34,23 @@ I'm an AI engineer focused on real-world GenAI applications — especially agent
 
 <hr/>
 
+<h3>📝 Writing & Research</h3>
+
+I occasionally break down complex tech topics in simple language — from AI learning mechanics to why companies struggle to adopt new tech. Here's some of my published work:
+
+- 🧠 **How AI Actually Learns**  
+  *Explains how zeros and ones turn into intelligence.*  
+  [Read on Medium →](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
+
+- 🏗️ **The Hidden Architect: Understanding Compilers**  
+  *Dives into how code is translated into machine language and why it matters.*  
+  [Read on Medium →](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
+
+- 🇯🇴 **Why Jordanian Companies Are Slow to Adopt AI**  
+  *A local perspective on tech adoption barriers — and how to fix them.*  
+  [Read on Medium →](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
+
+
 <h3>📬 Connect</h3>
 
 - GitHub: [@Eias02](https://github.com/Eias02)
