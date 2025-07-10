@@ -38,27 +38,11 @@ I'm an AI engineer focused on real-world GenAI applications — especially agent
 
 ## 📚 Research & Essays
 
-I occasionally write long-form pieces breaking down tech systems in clean, real-world language. Topics range from compilers to AI fundamentals to regional adoption challenges.
+Check out my latest deep dives, each clickable with a preview:
 
-[![How AI Actually Learns](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*aUgyHhrJfwjjKLMl9_2VXA.png)](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
-**🧠 How AI Actually Learns**  
-*Explains how zeros and ones evolve into neural networks*  
-👉 [Read on Medium](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
-
----
-
-[![Compilers: The Hidden Architect](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*F6fMHkft7zRVml64qQ0QqQ.png)](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
-**🏗️ The Hidden Architect: Understanding Compilers**  
-*How code turns into machine instructions*  
-👉 [Read on Medium](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
-
----
-
-[![AI in Jordan](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*cQpmxUQULrQpgXJe3o1z3w.png)](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
-**🇯🇴 Why Jordanian Companies Are Slow to Adopt AI**  
-*Barriers and solutions for local tech adoption*  
-👉 [Read on Medium](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
-
+[![How AI Learns](https://images.weserv.nl/?url=miro.medium.com/v2/resize:fit:1100/format:webp/1*aUgyHhrJfwjjKLMl9_2VXA.png)](https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492)
+[![Compilers](https://images.weserv.nl/?url=miro.medium.com/v2/resize:fit:1100/format:webp/1*F6fMHkft7zRVml64qQ0QqQ.png)](https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4)
+[![Jordan AI Adoption](https://images.weserv.nl/?url=miro.medium.com/v2/resize:fit:1100/format:webp/1*cQpmxUQULrQpgXJe3o1z3w.png)](https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3)
 
 ---
 
