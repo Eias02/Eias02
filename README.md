@@ -1,71 +1,27 @@
-<div align="center">
+<h1 align="center">Guten tag homie, I'm Alaa SAlamah</h1>
+<h3 align="center">I want to reach a level where a client sees how much Knowledge and Exp I have, they say, "God damn, you nerd"</h3>
 
-# Alaa Salamah
+- 🌱 I’m currently learning **I am an AI Engineer focused on building production-ready applications with Generative AI and Large Language Models.**
 
-**AI Engineer | Generative AI | Agentic Systems**
+- 📫 How to reach me **alaa_salamah02@yahoo.com**
 
-Building practical AI systems with a focus on LLM applications, agentic workflows, automation, and software architecture.
+- 📄 Know about my experiences [https://resumelink.co/alaasalamah-ai-engineer](https://resumelink.co/alaasalamah-ai-engineer)
 
-</div>
+- ⚡ Fun fact **I have no idea what am doing , but i wanna be consultant one day..**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@alaasalamah15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alaasalamah15" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alaa salamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alaa salamah" height="30" width="40" /></a>
+<a href="https://kaggle.com/alaasalamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alaasalamah" height="30" width="40" /></a>
+<a href="https://medium.com/alaasalamah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="alaasalamah" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/eias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="eias" height="30" width="40" /></a>
+<a href="https://discord.gg/1071872030762344469" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1071872030762344469" height="30" width="40" /></a>
+</p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-I am an AI Engineer focused on building production-ready applications with Generative AI and Large Language Models. 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eias02&show_icons=true&locale=en&layout=compact" alt="eias02" /></p>
 
-My work spans AI engineering, agentic systems, backend development, software architecture, systems engineering, and cybersecurity. I am particularly interested in understanding how AI systems operate across the full stack—from models and agents to underlying infrastructure and hardware performance.
-
----
-
-## Current Focus
-
-* **Agentic Systems:** Designing autonomous workflows, tool integration, agent memory, and orchestration strategies.
-* **LLM Engineering:** Developing applications around Large Language Models with reliable prompt and context engineering strategies.
-* **Backend Infrastructure:** Building backend architecture and automation pipelines to support AI applications.
-* **Systems & Security:** Exploring computer architecture, hardware-software optimization for AI, and cybersecurity fundamentals.
-
----
-
-## Technical Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, SQL, Bash |
-| **AI & Machine Learning** | PyTorch, Hugging Face Transformers, LangChain, LLMs, Generative AI, Agentic AI |
-| **Backend & Infrastructure** | FastAPI, REST APIs, GitHub Actions, CLI Tools, Automation |
-| **Data Systems** | MongoDB, SQL, Pandas, JSON |
-| **Systems & Security** | Linux, Computer Architecture, Systems Engineering, Cybersecurity Fundamentals |
-
----
-
-## Engineering & Research Interests
-
-I actively investigate engineering problems surrounding modern AI systems, with emphasis on:
-
-* Agentic AI architectures and tool orchestration
-* LLM application design and context engineering
-* AI infrastructure and automated workflows
-* Intersection of AI performance and low-level computing
-* Application security and secure system design
-
----
-
-## Objectives
-
-* Advance expertise in production-grade AI systems engineering.
-* Build resilient, scalable agentic AI applications.
-* Deepen technical knowledge across software architecture, hardware performance, and cybersecurity.
-* Continue publishing research and technical writing on AI systems engineering.
-
----
-
-## Contact
-
-* **GitHub:** [@Eias02](https://github.com/Eias02)
-* **LinkedIn:** [Alaa Salamah](https://www.linkedin.com/in/alaa-salamah-96167b227/)
-* **Email:** [alaa_salamah02@yahoo.com](mailto:alaa_salamah02@yahoo.com)
-
----
-
-> *"The More You Fuck Around, the More You Find Out"*
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eias02&show_icons=true&locale=en" alt="eias02" /></p>
