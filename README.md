@@ -1,74 +1,139 @@
-# Hello ladies and gentlemen, I'm 3laa 👋
+<div align="center">
 
-**AI Engineer** | Future **AI Consultant** | Founder @ *Klysus* (Not yet but am working on it :>)
+# Alaa Salamah
 
-I'm an AI engineer focused on real-world GenAI applications — especially agentic systems. Currently building deep expertise in LLMs, prompt engineering, and full-stack AI workflows. Long-term vision: launch **Klysus**, my own AI solutions company.
+**AI Engineer | Generative AI | Agentic Systems**
 
-![Alaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eias02&show_icons=true&theme=radical)
+Building practical AI systems with a focus on LLM applications,
+agentic workflows, automation, and software architecture.
 
----
-
-## 🧠 Current Focus
-
-- Designing **agentic AI systems** and autonomous workflows  
-- Developing LLM-based tools using **Python** and modern frameworks  
-- Engineering solid prompt strategies for production GenAI  
-- Studying how **hardware principles** and **low-level systems** affect AI performance  
-- Exploring software architecture, **cybersecurity fundamentals (AISS)**, and systems thinking  
+</div>
 
 ---
 
-## 🧰 Toolbox
+## About
 
-- **Languages**: Python, SQL, Bash  
-- **AI/ML**: PyTorch, HuggingFace Transformers, LangChain  
-- **Data**: MongoDB, Pandas, JSON, SQL (Honestly, whatever DBMS I need — I’ll learn it and master it 😎)  
-- **Infra/Dev**: GitHub Actions, CLI tools, APIs, FastAPI  
-- **Security**: AISS-level cybersecurity knowledge, systems hygiene, basic exploit theory  
+I am an AI Engineer focused on building real-world applications with
+Generative AI and Large Language Models.
 
----
+My work and learning currently span AI engineering, agentic systems,
+backend development, software architecture, systems engineering, and
+cybersecurity.
 
-## 🚀 Goals
+I am particularly interested in understanding how AI systems work
+across the stack, from models and agents to infrastructure and the
+underlying systems they run on.
 
-- 🧩 Build and launch **Klysus** — an AI solutions company focused on practical, secure, and scalable GenAI tools  
-- 🔧 Grow into **AI consulting** as a service layer within Klysus — helping teams integrate agentic AI with real business value  
-- 📚 Keep combining deep knowledge in **software, hardware, and cybersecurity** to design smarter, more autonomous systems  
-
----
-## 📚 Research & Essays
-
-<table>
-  <tr>
-    <td style="padding: 0 10px;">
-      <a href="https://medium.com/@allakink64/its-all-just-zeros-and-ones-so-how-does-ai-actually-learn-9e83a9c75492" target="_blank">
-        <img src="images/AiSystem.webp" width="200" alt="How AI Learns" style="border-radius: 6px; cursor: pointer;">
-      </a>
-    </td>
-    <td style="border-left: 1px solid #ddd; width: 1px;"></td>
-    <td style="padding: 0 10px;">
-      <a href="https://medium.com/@allakink64/the-hidden-architect-of-code-understanding-the-compilers-role-in-translating-to-machine-language-cd5e401307a4" target="_blank">
-        <img src="images/compiler.webp" width="200" alt="Understanding Compilers" style="border-radius: 6px; cursor: pointer;">
-      </a>
-    </td>
-    <td style="border-left: 1px solid #ddd; width: 1px;"></td>
-    <td style="padding: 0 10px;">
-      <a href="https://medium.com/@allakink64/why-jordanian-companies-are-slow-to-adopt-ai-and-emerging-technologies-and-what-can-be-done-1a19f64c18b3" target="_blank">
-        <img src="images/Companies.webp" width="200" alt="AI Adoption in Jordan" style="border-radius: 6px; cursor: pointer;">
-      </a>
-    </td>
-  </tr>
-</table>
+My long-term objective is to build **Klysus**, an AI solutions company
+focused on practical, secure, and scalable AI systems.
 
 ---
 
-## 📬 Contact
+## Current Focus
 
-Want to connect, collab, or nerd out about agentic AI? Hit me up:
-
-- 🐙 GitHub: [@Eias02](https://github.com/Eias02)  
-- 📧 Email: **alaa_salamah02@yahoo.com**  
-- 💼 LinkedIn: [Alaa Salamah](https://www.linkedin.com/in/alaa-salamah-96167b227/)  
+- Designing agentic AI systems and autonomous workflows
+- Building applications around Large Language Models
+- Developing reliable prompt and context engineering strategies
+- Exploring AI agents, tool use, memory, and orchestration
+- Building backend infrastructure for AI applications
+- Studying software architecture and systems engineering
+- Exploring computer architecture and the relationship between hardware and AI performance
+- Developing stronger foundations in cybersecurity and secure system design
 
 ---
 
-> “Engineering isn’t about tools — it’s about clarity of thought and solving the right problem.”
+## Technical Stack
+
+### Languages
+
+Python · SQL · Bash
+
+### AI / Machine Learning
+
+PyTorch · Hugging Face Transformers · LangChain · LLMs · Generative AI · Agentic AI
+
+### Backend / Infrastructure
+
+FastAPI · REST APIs · GitHub Actions · CLI Tools · Automation
+
+### Data
+
+MongoDB · SQL · Pandas · JSON
+
+### Systems / Security
+
+Linux · Computer Architecture · Systems Engineering · Cybersecurity Fundamentals
+
+---
+
+## Engineering Interests
+
+I am interested in the engineering problems surrounding modern AI systems,
+particularly:
+
+- Agentic AI architectures
+- LLM application design
+- AI-powered automation
+- AI infrastructure
+- Model and tool orchestration
+- Software architecture
+- Computer architecture
+- Systems engineering
+- Application security
+- The intersection of AI and low-level computing
+
+---
+
+## Klysus
+
+**Klysus** is a long-term project I am working toward: an AI solutions
+company focused on building practical, secure, and scalable AI systems.
+
+The goal is to combine AI engineering, automation, software architecture,
+and security to solve real-world problems rather than simply demonstrate
+AI capabilities.
+
+---
+
+## Research & Writing
+
+I use projects, experiments, and technical writing to explore ideas in
+AI and systems engineering.
+
+Areas I am interested in documenting include:
+
+- Agentic AI
+- LLM engineering
+- AI system architecture
+- Prompt and context engineering
+- AI infrastructure
+- Computer architecture
+- Cybersecurity
+- Systems engineering
+
+---
+
+## Goals
+
+- Build and launch Klysus
+- Develop strong expertise in AI systems engineering
+- Build production-oriented agentic AI systems
+- Develop AI consulting capabilities
+- Strengthen my understanding of software, hardware, and security
+- Continue turning research and experiments into useful projects
+
+---
+
+## Contact
+
+If you're interested in AI engineering, agentic systems, software
+architecture, or potential collaboration, feel free to reach out.
+
+- GitHub: [@Eias02](https://github.com/Eias02)
+- LinkedIn: [Alaa Salamah](https://www.linkedin.com/in/alaa-salamah-96167b227/)
+- Email: [alaa_salamah02@yahoo.com](mailto:alaa_salamah02@yahoo.com)
+
+---
+
+> Engineering is about understanding the system, identifying the right
+> problem, and building the right solution.
